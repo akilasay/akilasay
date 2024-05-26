@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm A</h1>
+<h1 align="center">Hi 👋, I'm Akila</h1>
 <h3 align="center">A passionate software engineer</h3>
 
 - 🔭 I’m currently working on **world leading education system**

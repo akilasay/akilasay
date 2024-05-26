@@ -8,7 +8,7 @@
 - 💬 Ask me about **Software Engineering**
 
 - ⚡ Fun fact **love cycling**
-
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

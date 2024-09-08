@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Software Engineering**
 
-- ⚡ Fun fact **love cycling**
+- ⚡ Fun fact **love cycling, swimming, parkour**
 ---
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">

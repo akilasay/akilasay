@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akila</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-- 🏢 I’m currently working on **world leading education system**
+- 🏢 I’m currently working on **world-leading educational system**
 
 - ⚡ I’m currently learning **Artificial Intelligence**
 
 - 💬 Ask me about **Software Engineering**
 
-- :sunglasses: Fun fact **love cycling, swimming, parkour**
+- :sunglasses: Fun fact **love swimming, parkour**
 ---
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">

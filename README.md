@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Software Engineering**
 
-- :sunglasses: Fun fact **love swimming, parkour**
+- :sunglasses: Fun fact love **swimming,diving, parkour**
 ---
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
